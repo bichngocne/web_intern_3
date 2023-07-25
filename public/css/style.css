@@ -387,7 +387,7 @@ a {
 
 /* news */
 .wrapper-news {
-    width: 288px;
+    width: 292px;
     flex-shrink: 0;
     border-radius: 5px;
     height: auto;
@@ -482,7 +482,7 @@ a {
     border-right: 1px solid #56BCF8;
     background: #F0F8FF;
     top: 80px;
-    right: 36%;
+    right: 512px;
 }
 
 .text-advise {
@@ -503,7 +503,7 @@ a {
     border-left: 1px solid #56BCF8;
     background: #F0F8FF;
     top: 80px;
-    right: 22%;
+    right: 313px;
 }
 
 .rectangle-44 {
